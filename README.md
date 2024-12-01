@@ -18,7 +18,8 @@
  
 <div> 
  <a href="toninhokkkjj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href""= "<a href="mailto:luizantoniobarbosa74@gmail.comsubject=Contato&cc=outroemail@exemplo.com&bcc=confidencial@exemplo.com&body=Olá,%20gostaria%20de%20entrar%20em%20contato.">Entre em contato</a>
-"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  <a href""= "<a <a href="mailto:luizantoniobarbosa74@gmail.com?subject=Contato&cc=outroemail@exemplo.com&bcc=confidencial@exemplo.com&body=Olá,%20gostaria%20de%20entrar%20em%20contato."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
